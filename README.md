@@ -1,3 +1,4 @@
+# CodeAlpha_CarPricePrediction
 # Car Price Prediction
 
 ## Project Overview
@@ -25,4 +26,4 @@ Dataset containing car details like year, mileage, fuel type, etc.
 - Mileage affects price negatively
 
 ## Author
-Sk Mohiddin
+Shaik Mohiddin
